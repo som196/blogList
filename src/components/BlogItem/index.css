@@ -1,0 +1,23 @@
+.item-container {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+.title-date-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.description-container {
+  color: #9aa5b1;
+}
+.title {
+  color: #12022f;
+  font-weight: bold;
+}
+.date {
+  color: #9aa5b1;
+}
+.separater {
+  color: #9aa5b1;
+}

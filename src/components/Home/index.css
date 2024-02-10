@@ -1,0 +1,16 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.profile-img {
+  height: 350px;
+  width: 350px;
+}
+.user-info-container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
